@@ -7,13 +7,15 @@ params:
   # defaultTheme: light
   # defaultTheme: dark
   defaultTheme: auto # to switch between dark or light according to browser theme
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
 
   profileMode:
     enabled: false # needs to be explicitly set
 
   homeInfoParams:
     Title: maplesyrup . sw0rdfish
-    Content: Yadda yadda
+    Content: Digital Gaming Journal
 
   socialIcons: # optional
     - name: "Mastodon"
