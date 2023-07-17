@@ -1,0 +1,13 @@
+params:
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to switch between dark or light according to browser theme
+    homeInfoParams:
+        Title: Maple Syrup . sw0rdfish
+        Content: Yadda yadda
+
+    socialIcons: # optional
+        - name: "Mastodon"
+            url: "https://mastodon.content.town/@maplesyrup"
+        - name: "Twitter"
+            url: "https://twitter.com/sw0rdfish"
