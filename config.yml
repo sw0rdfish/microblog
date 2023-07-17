@@ -8,8 +8,11 @@ params:
   # defaultTheme: dark
   defaultTheme: auto # to switch between dark or light according to browser theme
 
+profileMode:
+    enabled: false # needs to be explicitly set
+
 homeInfoParams:
-  Title: Maple Syrup . sw0rdfish
+  Title: maplesyrup . sw0rdfish
   Content: Yadda yadda
 
 socialIcons: # optional
