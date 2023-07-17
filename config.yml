@@ -8,15 +8,15 @@ params:
   # defaultTheme: dark
   defaultTheme: auto # to switch between dark or light according to browser theme
 
-profileMode:
+  profileMode:
     enabled: false # needs to be explicitly set
 
-homeInfoParams:
-  Title: maplesyrup . sw0rdfish
-  Content: Yadda yadda
+  homeInfoParams:
+    Title: maplesyrup . sw0rdfish
+    Content: Yadda yadda
 
-socialIcons: # optional
-  - name: "Mastodon"
-    url: "https://mastodon.content.town/@maplesyrup"
-  - name: "Twitter"
-    url: "https://twitter.com/sw0rdfish"
+  socialIcons: # optional
+    - name: "Mastodon"
+      url: "https://mastodon.content.town/@maplesyrup"
+    - name: "Twitter"
+      url: "https://twitter.com/sw0rdfish"
