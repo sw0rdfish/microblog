@@ -20,5 +20,7 @@ params:
   socialIcons: # optional
     - name: "Mastodon"
       url: "https://mastodon.content.town/@maplesyrup"
+    -name: "Discord"
+      url: "https://discordapp.com/users/216259211544231947"
     - name: "Twitter"
       url: "https://twitter.com/sw0rdfish"
