@@ -2,8 +2,8 @@
 title: "July 19th 2023 - New Digs"
 date: 2023-07-19 1:30:00 +0000
 cover.image: hugo.png
-categories:
-- "blog"
+categories: ['blog','test']
+tags: ['test2','test3']
 ---
 Moved the blog to my own server instead of using micro.blog.  Just trying to cut costs, even the ones that are $5/month right now.
 
