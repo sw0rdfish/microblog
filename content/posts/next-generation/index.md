@@ -2,7 +2,7 @@
 title: " April 2nd 2023 - The Next Generation"
 date: 2023-04-03 00:32:39 +0000
 #url: /2023/04/02/april-nd-the.html
-categories:
+tags:
 - "minecraft"
 ---
 Played Minecraft with Lennon today. The best of gaming days!

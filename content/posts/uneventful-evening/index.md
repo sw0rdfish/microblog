@@ -2,7 +2,7 @@
 title: "February 25th 2023 - Team Edward… I Guess?"
 date: 2023-02-26 13:40:47 +0000
 #url: /2023/02/26/uneventful-evening-of.html
-categories:
+tags:
 - "warzone 2"
 - "skyrim"
 ---
