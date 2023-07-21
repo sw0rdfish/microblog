@@ -2,7 +2,7 @@
 title: "February 22nd 2023 - The Elusive 4-Piece Silk Suit"
 date: 2023-02-23 06:38:55 +0000
 #url: /2023/02/23/feb-nd-the.html
-categories:
+tags:
 - "clips"
 - "warzone 2"
 ---
