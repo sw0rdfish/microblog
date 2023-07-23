@@ -1,5 +1,5 @@
 ---
-title: "July 22nd 2023 - Season of the Malignant"
+title: "Season of the Malignant"
 date: 2023-07-22 23:59:00 +0000
 tags: ['diablo 4','diablo']
 ---
