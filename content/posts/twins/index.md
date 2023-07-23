@@ -1,5 +1,5 @@
 ---
-title: "March 28th 2023 - Twins Watch Over, Twin Wins Get!"
+title: "Twins Watch Over, Twin Wins Get!"
 date: 2023-03-28 04:50:23 +0000
 #url: /2023/03/28/march-th-twins.html
 tags:

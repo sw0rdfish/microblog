@@ -1,5 +1,5 @@
 ---
-title: "March 19th 2023 - He Has Returned"
+title: "He Has Returned"
 date: 2023-03-19 06:33:32 +0000
 #url: /2023/03/19/mar-th-he.html
 tags:

@@ -1,6 +1,6 @@
 ---
-title: " April 2nd 2023 - The Next Generation"
-date: 2023-04-03 00:32:39 +0000
+title: " The Next Generation"
+date: 2023-04-02 00:32:39 +0000
 #url: /2023/04/02/april-nd-the.html
 tags:
 - "minecraft"

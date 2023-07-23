@@ -1,5 +1,5 @@
 ---
-title: "July 19th 2023 - New Digs"
+title: "New Digs"
 date: 2023-07-19 1:30:00 +0000
 cover.image: hugo.png
 tags: ['blog']

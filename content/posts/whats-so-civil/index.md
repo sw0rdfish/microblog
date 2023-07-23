@@ -1,5 +1,5 @@
 ---
-title: "February 20th 2023 - What's So Civil About War Anyway?"
+title: "What's So Civil About War Anyway?"
 date: 2023-02-21 05:45:44 +0000
 #url: /2023/02/21/feb-th-whats.html
 ---

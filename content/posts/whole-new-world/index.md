@@ -1,5 +1,5 @@
 ---
-title: "April 8th - A Whole New World"
+title: "A Whole New World"
 date: 2023-04-09 17:25:42 +0000
 #url: /2023/04/09/april-th-a.html
 tags:

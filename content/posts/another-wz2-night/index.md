@@ -1,5 +1,5 @@
 ---
-title: "February 18th 2023 - Season 2"
+title: "Season 2"
 date: 2023-02-18 10:08:57 +0000
 #url: /2023/02/18/another-evening-of.html
 tags:

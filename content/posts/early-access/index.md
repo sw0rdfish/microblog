@@ -1,6 +1,6 @@
 ---
-title: "June 1-3rd 2023 - Early Access"
-date: 2023-06-05 00:38:25 +0000
+title: "Early Access"
+date: 2023-06-03 00:38:25 +0000
 #url: /2023/06/04/june-rd-early.html
 tags:
 - "diablo 4"

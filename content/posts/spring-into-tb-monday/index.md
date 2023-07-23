@@ -1,5 +1,5 @@
 ---
-title: "March 20th 2023 - Spring into Throwback Monday!"
+title: "Spring into Throwback Monday!"
 date: 2023-03-21 04:40:56 +0000
 #url: /2023/03/21/mar-th-spring.html
 tags:

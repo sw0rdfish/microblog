@@ -1,6 +1,6 @@
 ---
-title: "April 13th 2023 - It's a FuzzFest!"
-date: 2023-04-14 16:11:53 +0000
+title: "It's a FuzzFest!"
+date: 2023-04-13 16:11:53 +0000
 #url: /2023/04/14/april-th-its.html
 tags:
 - "warzone 2"

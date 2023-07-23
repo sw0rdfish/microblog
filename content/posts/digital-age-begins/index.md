@@ -1,5 +1,5 @@
 ---
-title: "February 16th 2023 - Digital Age Begins"
+title: "Digital Age Begins"
 date: 2023-02-16 08:58:14 +0000
 #url: /2023/02/16/gonna-try-to.html
 tags:
