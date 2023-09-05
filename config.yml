@@ -9,6 +9,7 @@ params:
   defaultTheme: auto # to switch between dark or light according to browser theme
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
+  assets.disableHLJS: false
 
   profileMode:
     enabled: false # needs to be explicitly set
