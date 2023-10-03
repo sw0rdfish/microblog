@@ -25,3 +25,25 @@ params:
       url: "https://discordapp.com/users/216259211544231947"
     - name: "Twitter"
       url: "https://twitter.com/sw0rdfish"
+
+#ForSearch
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+menu:
+    main:
+        - identifier: archive
+          name: archives
+          url: /archives/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+        #- identifier: example
+        #  name: example.org
+        #  url: https://example.org
+        #  weight: 30
