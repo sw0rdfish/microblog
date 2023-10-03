@@ -35,15 +35,15 @@ outputs:
 
 menu:
     main:
-        - identifier: archive
-          name: archives
+        - identifier: Archive
+          name: Archives
           url: /archives/
-          weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
           weight: 20
-        #- identifier: example
-        #  name: example.org
-        #  url: https://example.org
-        #  weight: 30
+        - identifier: Tags
+          name: Tags
+          url: /tags/
+          weight: 10
+        - identifier: Search
+          name: Search
+          url: /search/
+          weight: 30
