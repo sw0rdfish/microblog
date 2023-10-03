@@ -35,14 +35,14 @@ outputs:
 
 menu:
     main:
-        - identifier: Archive
-          name: Archives
-          url: /archives/
-          weight: 20
         - identifier: Tags
           name: Tags
           url: /tags/
           weight: 10
+        - identifier: Archive
+          name: Archives
+          url: /archives/
+          weight: 20
         - identifier: Search
           name: Search
           url: /search/
