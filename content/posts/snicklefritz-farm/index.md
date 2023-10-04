@@ -8,4 +8,4 @@ It has been awhile so I decided to return to Stardew Valley. It's just such a fa
 Farm name credit: The Fuzz
 Charachter name credit: SpookieTie #Todd
 
-![image](the-farm.jpg)
+![image](the-farm.jpeg)
