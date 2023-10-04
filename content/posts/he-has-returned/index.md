@@ -5,7 +5,7 @@ date: 2023-03-19 06:33:32 +0000
 tags:
 - "warzone 2"
 - "skyrim"
-- "vampire survivor"
+- "vampire survivors"
 - "civilization"
 - "call of duty"
 ---
